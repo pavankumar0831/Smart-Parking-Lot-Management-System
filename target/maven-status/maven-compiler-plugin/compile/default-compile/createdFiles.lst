@@ -1,0 +1,11 @@
+com\example\pieces\King.class
+com\example\game\ChessGame.class
+com\example\Main.class
+com\example\board\Square.class
+com\example\pieces\Bishop.class
+com\example\board\Board.class
+com\example\pieces\Pawn.class
+com\example\pieces\Knight.class
+com\example\pieces\Queen.class
+com\example\pieces\Rook.class
+com\example\pieces\Piece.class
